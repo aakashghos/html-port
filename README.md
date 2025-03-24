@@ -1,5 +1,5 @@
 
- <html lang="en" style="background :rgb(143, 111, 175)>
+ <html lang="en" style="background :rgb(143, 111, 175)">
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
